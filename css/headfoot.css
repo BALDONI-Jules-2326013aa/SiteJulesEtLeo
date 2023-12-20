@@ -142,14 +142,6 @@ footer div {
   flex-direction: column;
 }
 
-footer div.btn-montee {
-  display: flex;
-  justify-content: space-around;
-  align-items: flex-start;
-  width: 15%;
-  flex-direction: column;
-}
-
 .remonter {
   display: flex;
   align-items: center;
