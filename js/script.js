@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
     
   });
-  if ((window.innerWidth > 1200){
+  if (window.innerWidth > 1200){
     burger.addEventListener("click", function() {
       nav.classList.toggle("show");
 
