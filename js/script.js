@@ -43,12 +43,15 @@ document.addEventListener("DOMContentLoaded", function() {
     if ((window.innerWidth > 1200) && nav.classList.contains("show")) {
       nav.classList.toggle("show");
     }
+    
   });
-  //La simplement si on  click sur le button burger on toggle la class show
+  if ((window.innerWidth > 1200){
   burger.addEventListener("click", function() {
     nav.classList.toggle("show");
 
-  });
+  });}
+  //La simplement si on  click sur le button burger on toggle la class show
+  
 
 });
 // C'est la fonction pour le formulaire auquel j'envoie a une de mes adresses mail secondaire
