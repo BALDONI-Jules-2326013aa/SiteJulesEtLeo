@@ -138,7 +138,7 @@ footer div {
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
-  width: 40%;
+  width: 30%;
   flex-direction: column;
 }
 
