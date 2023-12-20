@@ -142,7 +142,19 @@ footer div {
   flex-direction: column;
 }
 
+.remonter {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  transition: 0.3s;
+  padding-top: 1px;
+}
 
+.remonter:hover {
+  color: #dc8add;
+}
 
 
 /*FIN HOME*/
