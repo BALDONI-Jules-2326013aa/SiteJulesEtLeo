@@ -122,7 +122,7 @@ footer {
   display: flex;
   padding: 1% 0;
   background-color: #000000af;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 footer img {
