@@ -150,6 +150,9 @@ footer div {
   border: none;
   transition: 0.3s;
   padding-top: 1px;
+  font-size:22px;
+  height:auto;
+  width:auto;
 }
 
 .remonter:hover {
