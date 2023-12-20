@@ -51,6 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     });
   };
+});
   //La simplement si on  click sur le button burger on toggle la class show
   
 
