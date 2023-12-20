@@ -1,0 +1,7 @@
+Refaire le fond des pages (dans l'idéal un fond étoiler avec un gradient) sinon un truc beau tout court 
+Faire tout les light modes
+Finir le menu burger
+Verifier que toute les pages soit à jour
+Verifier W3C et ligth house 
+Faire la fusée 
+Prendre une douche 
